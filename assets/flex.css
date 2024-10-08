@@ -3,3 +3,10 @@ body {
     align-items: center;
     justify-content: center;
 }
+.site {
+    display: flex;
+}
+.article {
+    flex: 1;
+}
+
